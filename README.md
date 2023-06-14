@@ -11,6 +11,10 @@
 
 ![alt text](./assets/docker-lunchbox.webp)
 
+- Docker container is like a lunchbox
+- Keeps microservices separate the way a lunch box separates food i.e. avocado sandwich & cookie is not a good combination
+- In the context of the app, you can maintain/update features without interrupting the whole service.
+
 ## Docker-Pokeapi
 
 To learn how to deploy a React/NodeJS app with Docker, you can follow the guide [here](./Docker-Pokeapp-Guide.md)
