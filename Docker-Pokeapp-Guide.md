@@ -90,6 +90,8 @@ We can now see our docker image has been tagged and instead of name appearing as
 docker run -d -p 3000:3000 ahmedmujtba/docker-pokeapi
 ```
 
+NOTE: Anyone can use the above command on their local machine and see the app work
+
 11. Enter `localhost:3000` in the web browser and you should see output as below:
 
 ![alt text](./assets/pokeapi-deployed.png)
